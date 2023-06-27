@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **burak.turkster@gmail.com**
 
-- 📄 Know about my experiences [Burak Türk](https://www.linkedin.com/in/burakturkster)
-
+- 📄 You can click the [link](https://www.linkedin.com/in/burakturkster) to know about my experiences. 
 - ⚡ Fun fact **To explore, to travel, to see and to dream 😍**
 
 <h3 align="left">Connect with me:</h3>
