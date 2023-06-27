@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bturkster" target="blank"><img src="https://img.shields.io/twitter/follow/bturkster?logo=twitter&style=for-the-badge" alt="bturkster" /></a> </p>
 
-- 🔭 I’m currently working on [CompuGroup Yazılım](https://cgmturkiye.com/)
+- 🔭 I’m currently working on [CompuGroup Medical Bilgi Sistemleri A.Ş.](https://cgmturkiye.com/)
 
 - 🌱 I’m currently learning **Javascript frameworks**
 
